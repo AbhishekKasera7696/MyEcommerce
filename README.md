@@ -1,8 +1,26 @@
+#Navbar
+<img src="https://i.ibb.co/f0cqHJx/Screenshot-19.png"/>
 
+#Body
+<img src="https://i.ibb.co/XjsFR2H/Screenshot-20.png"/>
 
+#Footer
+<img src="https://i.ibb.co/NNs91fK/Screenshot-21.png"/>
 
+#Product 
+<img src="https://i.ibb.co/GWhMWbv/Screenshot-22.png"/>
 
+#You may also like feature
+<img src="https://i.ibb.co/y5VM26w/Screenshot-24.png"/>
 
+#Add To cart 
+<img src="https://i.ibb.co/4dhQ2Ly/Screenshot-25.png"/>
+
+#Payment Page
+<img src="https://i.ibb.co/mDZWwVz/Screenshot-26.png"/>
+
+#Thankyou for Ordering
+<img src="https://i.ibb.co/DR5DfHs/Screenshot-27.png"/>
 
 
 
